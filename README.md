@@ -2,6 +2,10 @@
 
 故事线：从小孩子学习吃饭到美食家，大概这个路线和方向。
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bluezhan/when-i-begin-learning-something/master/files/2020-09-15.png?sanitize=true" alt="Gourmet" title="Gourmet">
+</p>
+
 吃饭前的准备  
 怎么毛手毛脚使用手和餐具  
 吃、搅、吞、喝  
