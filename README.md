@@ -1,6 +1,10 @@
 # 当我开始学习xxx的时候，我应该怎么学习呢？
 
-故事线：从小孩子学习吃饭到美食家，大概这个路线和方向。
+<p align="center">
+  <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg">
+</p>
+
+> 故事线：从小孩子学习吃饭到美食家，大概这个路线和方向。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bluezhan/when-i-begin-learning-something/master/files/2020-09-15.png?sanitize=true" alt="Gourmet" title="Gourmet">
@@ -31,7 +35,7 @@
 改善人类进食（动作、场地、心情、家人、聚餐、环境、体验）  
 
 
-
+© 2020 Bruce Jenn, Inc.
 
 
 
